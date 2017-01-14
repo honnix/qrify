@@ -1,0 +1,4 @@
+env.sh
+.cache-*
+generated_qrs/
+.DS_Store
